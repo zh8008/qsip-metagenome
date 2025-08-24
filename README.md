@@ -1,2 +1,2 @@
 # qsip-metagenome
-qsip-metagenome
+qSIP-metagenome pipeline
