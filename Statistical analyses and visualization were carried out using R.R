@@ -138,8 +138,6 @@ boxplerk <-  function(X,
   
 }
 
-#上面不要动，除非你会改
-
 l<-list()##循环时，建新表
 for (i in 2)
  {a=boxplerk(data[[i]],data$treatment, 
